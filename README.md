@@ -9,7 +9,6 @@ Uma calculadora elegante e funcional desenvolvida com **JAVA**.
 - **Subtração** ➖  
 - **Multiplicação** ✖️  
 - **Divisão** ➗
-- 
 ---
 
 ## 🛠 Tecnologias Utilizadas
